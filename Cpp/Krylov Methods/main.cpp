@@ -1,5 +1,5 @@
 //  main.cpp
-//  Arnoldi
+//  Krylov Methods (Arnoldi, Galerkin, GMRES)
 //  Created by Mario Luis on 6/5/21.
 
 #include <istream>
